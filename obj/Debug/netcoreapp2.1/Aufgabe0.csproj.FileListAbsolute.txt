@@ -1,0 +1,11 @@
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe0\bin\Debug\netcoreapp2.1\Aufgabe0.deps.json
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe0\bin\Debug\netcoreapp2.1\Aufgabe0.runtimeconfig.json
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe0\bin\Debug\netcoreapp2.1\Aufgabe0.runtimeconfig.dev.json
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe0\bin\Debug\netcoreapp2.1\Aufgabe0.dll
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe0\bin\Debug\netcoreapp2.1\Aufgabe0.pdb
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe0\obj\Debug\netcoreapp2.1\Aufgabe0.csprojAssemblyReference.cache
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe0\obj\Debug\netcoreapp2.1\Aufgabe0.csproj.CoreCompileInputs.cache
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe0\obj\Debug\netcoreapp2.1\Aufgabe0.AssemblyInfoInputs.cache
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe0\obj\Debug\netcoreapp2.1\Aufgabe0.AssemblyInfo.cs
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe0\obj\Debug\netcoreapp2.1\Aufgabe0.dll
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe0\obj\Debug\netcoreapp2.1\Aufgabe0.pdb
